@@ -1,0 +1,4 @@
+version: '3'
+services:
+  db_host:
+    user: 1000:1000
